@@ -23,7 +23,7 @@ https://rotating-images-gallery.netlify.app/
 
 ## **🖼 Preview**
 
-![Gallery Desktop View](./screenshots/gallery-desktop.png)
+/screenshots/rotating-gallery.png
 
 ---
 
