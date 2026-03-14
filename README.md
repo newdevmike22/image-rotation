@@ -24,7 +24,6 @@ https://rotating-images-gallery.netlify.app/
 ## **🖼 Preview**
 
 /screenshots/rotating-gallery.png
-/screenshots/rotating-gallery.png
 ---
 
 ## **🚀 Key Features**
